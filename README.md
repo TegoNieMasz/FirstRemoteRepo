@@ -1,0 +1,2 @@
+# FirstRemoteRepo
+praca na lekcji
